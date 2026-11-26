@@ -1,21 +1,15 @@
 # Hey, I'm AJAYRAJ! 👋
 
-<div align="center">
-
 ### Lead Engineer | Python & AI Engineer | Homelab Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&width=750&lines=Building+things+that+sometimes+work...;Reviewing+code+that+shouldn't+exist...;RAG+%7C+GraphRAG+%7C+LLMs;Turning+spare+hardware+into+servers;Probably+debugging+something+right+now..." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=70A5FD&width=750&lines=Building+things+that+sometimes+work...;Reviewing+code+that+shouldn't+exist...;RAG+%7C+GraphRAG+%7C+LLMs;Turning+spare+hardware+into+servers;Probably+debugging+something+right+now..." alt="Typing SVG" />
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="450" alt="Coding animation" />
-
-<br/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420" alt="Coding animation" />
 
 <img src="https://komarev.com/ghpvc/?username=ajayrajtp&label=PROFILE+VISITORS&color=blueviolet&style=for-the-badge" alt="Profile visitors" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajayrajtp/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github)](https://github.com/ajayrajtp)
-
-</div>
 
 ---
 
@@ -38,85 +32,77 @@ I like solving real-world problems, but I'm equally happy spending an entire wee
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 <table>
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 💻 Languages
 
-<img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/>
-<img src="https://skillicons.dev/icons?i=js" width="42" alt="JavaScript"/>
-<img src="https://skillicons.dev/icons?i=ts" width="42" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=python" height="38" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=js" height="38" alt="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" height="38" alt="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=c" height="38" alt="C"/>
+<img src="https://skillicons.dev/icons?i=cpp" height="38" alt="C++"/>
+<img src="https://skillicons.dev/icons?i=bash" height="38" alt="Bash"/>
 
-<img src="https://skillicons.dev/icons?i=c" width="42" alt="C"/>
-<img src="https://skillicons.dev/icons?i=cpp" width="42" alt="C++"/>
-<img src="https://skillicons.dev/icons?i=bash" width="42" alt="Bash"/>
-
-**Python · JavaScript · TypeScript**
-
-**C · C++ · Bash · SQL**
+Python · JavaScript · TypeScript  
+C · C++ · Bash · SQL
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### ⚙️ Backend & Development
 
-<img src="https://skillicons.dev/icons?i=flask" width="42" alt="Flask"/>
-<img src="https://skillicons.dev/icons?i=fastapi" width="42" alt="FastAPI"/>
-<img src="https://skillicons.dev/icons?i=angular" width="42" alt="Angular"/>
+<img src="https://skillicons.dev/icons?i=flask" height="38" alt="Flask"/>
+<img src="https://skillicons.dev/icons?i=fastapi" height="38" alt="FastAPI"/>
+<img src="https://skillicons.dev/icons?i=angular" height="38" alt="Angular"/>
+<img src="https://skillicons.dev/icons?i=postgres" height="38" alt="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=docker" height="38" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=git" height="38" alt="Git"/>
 
-<img src="https://skillicons.dev/icons?i=postgres" width="42" alt="PostgreSQL"/>
-<img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=git" width="42" alt="Git"/>
-
-**Flask · FastAPI · Angular**
-
-**PostgreSQL · Docker · Git**
+Flask · FastAPI · Angular  
+PostgreSQL · Docker · Git
 
 </td>
 </tr>
-
 <tr>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### 🧠 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch" width="42" alt="PyTorch"/>
-<img src="https://skillicons.dev/icons?i=python" width="42" alt="Python"/>
+<img src="https://skillicons.dev/icons?i=pytorch" height="38" alt="PyTorch"/>
+<img src="https://skillicons.dev/icons?i=python" height="38" alt="Python"/>
 
-**LLMs · RAG · GraphRAG**
-
-**Neo4j · Embeddings · Vector Search**
-
-**Fine-tuning · Hugging Face**
-
-**Model Evaluation · Private AI**
+- Large Language Models
+- RAG & GraphRAG
+- Neo4j & Knowledge Graphs
+- Embeddings & Vector Search
+- LLM Fine-tuning
+- Hugging Face
+- Model Evaluation
+- Private AI & Local Inference
 
 </td>
-<td align="center" width="50%">
+<td width="50%" valign="top">
 
 ### ☁️ Cloud & Infrastructure
 
-<img src="https://skillicons.dev/icons?i=aws" width="42" alt="AWS"/>
-<img src="https://skillicons.dev/icons?i=linux" width="42" alt="Linux"/>
-<img src="https://skillicons.dev/icons?i=nginx" width="42" alt="Nginx"/>
+<img src="https://skillicons.dev/icons?i=aws" height="38" alt="AWS"/>
+<img src="https://skillicons.dev/icons?i=linux" height="38" alt="Linux"/>
+<img src="https://skillicons.dev/icons?i=nginx" height="38" alt="Nginx"/>
+<img src="https://skillicons.dev/icons?i=docker" height="38" alt="Docker"/>
+<img src="https://skillicons.dev/icons?i=githubactions" height="38" alt="GitHub Actions"/>
 
-<img src="https://skillicons.dev/icons?i=docker" width="42" alt="Docker"/>
-<img src="https://skillicons.dev/icons?i=githubactions" width="42" alt="GitHub Actions"/>
-
-**AWS · Linux · Nginx**
-
-**Docker · Proxmox · TrueNAS**
-
-**Networking · CI/CD**
+- AWS & Cloud Services
+- Linux Administration
+- Proxmox & TrueNAS
+- Docker & Compose
+- Networking & Security
+- CI/CD & Automation
 
 </td>
 </tr>
 </table>
-
-</div>
 
 ---
 
@@ -136,41 +122,60 @@ Things I enjoy working on:
 
 I prefer understanding how things work under the hood rather than just plugging APIs together.
 
-<div align="center">
-
-<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="300" alt="Thinking and engineering animation"/>
-
-</div>
+<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="280" alt="Thinking animation"/>
 
 ---
 
-## ☁️ Cloud, AWS & Infrastructure
+## ☁️ AWS, Cloud & Infrastructure
 
 I enjoy working with cloud infrastructure, automating deployments, managing servers, and figuring out why something suddenly stopped responding at 2 AM.
 
-Things I spend time with:
+### Things I work with
 
-- AWS infrastructure and cloud services.
-- EC2, S3, IAM, networking and security.
-- Docker and Docker Compose.
-- Nginx, reverse proxies and load balancing.
-- Linux server administration.
-- CI/CD and deployment automation.
-- Monitoring, logging and troubleshooting.
+| Area | Technologies |
+|:---|:---|
+| Cloud | AWS |
+| Compute | EC2 |
+| Storage | S3 |
+| Networking | VPC, ALB, Route 53 |
+| Web Servers | Nginx |
+| Containers | Docker, Docker Compose |
+| Security | IAM, WAF, Firewall Rules |
+| Automation | GitHub Actions, Bash |
+| Operating Systems | Linux |
 
-<div align="center">
+### The cloud experience
 
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,githubactions" height="55" alt="Cloud and infrastructure technologies"/>
-
-<br/><br/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
 **Me:** Let's deploy a small service.
 
-**AWS:** Sure. Here's your invoice.
+**AWS:** Absolutely.
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="300" alt="Cloud deployment chaos"/>
+**Me:** How much will it cost?
 
-</div>
+**AWS:** Yes.
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Deployment chaos"/>
+
+</td>
+<td width="50%" valign="top">
+
+**Me:** Everything is working perfectly.
+
+**CloudWatch:** I have some concerns.
+
+**Me:** What concerns?
+
+**CloudWatch:** Everything.
+
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="100%" alt="Infrastructure panic"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -205,47 +210,21 @@ I enjoy building and maintaining my own infrastructure, experimenting with virtu
 - Self-hosting applications instead of relying on cloud services.
 - Turning spare hardware into useful systems.
 
-<div align="center">
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat managing a computer"/>
-</div>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Cat working on a computer"/>
 
 </details>
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ajayrajtp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&hide=stars,prs" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayrajtp&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=ajayrajtp&theme=tokyonight&hide_border=true" alt="GitHub contribution streak"/>
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
-<div align="center">
-
-[![Ajayraj's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajayrajtp&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true)](https://github.com/ajayrajtp)
-
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ajayrajtp&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" width="100%" alt="Contribution activity graph"/>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-![Contribution Snake](https://raw.githubusercontent.com/ajayrajtp/ajayrajtp/output/github-contribution-grid-snake-dark.svg)
-
-</div>
+<img src="https://raw.githubusercontent.com/ajayrajtp/ajayrajtp/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
 
 ---
 
@@ -263,47 +242,112 @@ I enjoy building and maintaining my own infrastructure, experimenting with virtu
 
 ## 😂 The Engineering Experience
 
-<div align="center">
+A few things that happen when you're responsible for building systems AND reviewing everyone else's code.
 
-### 1. When I open a pull request for review
+### 1. The PR Review Experience
 
-<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="280" alt="Serious inspection"/>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-*Let's see what we're dealing with today.*
+**When someone says:**
 
-### 2. When someone says "It's just a small change"
+"It's a very small PR. Should take 2 minutes to review."
 
-<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="280" alt="Concerned reaction"/>
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="100%" alt="Suspicious reaction"/>
 
-*150 files changed. Interesting.*
+</td>
+<td width="50%" valign="top">
 
-### 3. When I find a function inside a function inside another function
+**The actual PR:**
 
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280" alt="Confused cat"/>
+- 47 files changed
+- 2,300 lines added
+- No tests
+- 3 unrelated refactors
 
-*Who hurt you?*
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Confused cat"/>
 
-### 4. My favourite code review comment
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**When I find a function inside a function inside another function:**
+
+<img src="https://media.giphy.com/media/3o7qDEq2bMbcbPRQ2c/giphy.gif" width="100%" alt="Thinking reaction"/>
+
+</td>
+<td width="50%" valign="top">
+
+**When the PR description says "Minor changes":**
+
+<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" alt="Panic reaction"/>
+
+</td>
+</tr>
+</table>
+
+### 2. Code Review Comments
 
 > Nit: Can we make this a little cleaner?
 
 *Proceeds to suggest 17 changes.*
 
-### 5. When someone asks for an approval after fixing only one comment
+> Could we avoid this additional abstraction?
 
-<img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="280" alt="Review panic"/>
+*There are already four layers of abstraction.*
 
-*There are still 12 unresolved conversations.*
+> Can we add a test for this edge case?
 
-### 6. When the entire test suite passes
+*The edge case is basically the entire feature.*
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="280" alt="Celebration"/>
+### 3. The Engineering Lifecycle
 
-*Ship it. Wait, did we test production?*
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+**When all tests pass:**
 
-### A typical engineering workflow
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Celebration"/>
+
+Finally! Ship it.
+
+</td>
+<td width="50%" valign="top">
+
+**When production breaks 5 minutes later:**
+
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" alt="Production incident"/>
+
+Interesting. Very interesting.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**When someone asks for approval after fixing just one comment:**
+
+<img src="https://media.giphy.com/media/NTur7XlVDUdqM/giphy.gif" width="100%" alt="Review reaction"/>
+
+There are still 12 unresolved conversations.
+
+</td>
+<td width="50%" valign="top">
+
+**When someone says "It works on my machine":**
+
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="100%" alt="Cat reaction"/>
+
+Congratulations. Ship your machine.
+
+</td>
+</tr>
+</table>
+
+### 4. A Typical Engineering Workflow
 
 1. Someone reports a bug.
 2. Investigate the issue.
@@ -318,22 +362,15 @@ I enjoy building and maintaining my own infrastructure, experimenting with virtu
 
 ## 🤝 Let's Connect
 
-<div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajayraj_TP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajayrajtp/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-ajayrajtp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayrajtp)
-
-<br/>
 
 **Thanks for stopping by!**
 
 Usually have something running in Docker, something breaking in my homelab, or some new technology I'm trying to figure out.
 
-<br/>
-
 *It's not a bug. It's an undocumented feature.*
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Happy engineering"/>
 
-</div>
