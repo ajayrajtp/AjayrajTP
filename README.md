@@ -360,11 +360,26 @@ Congratulations. Ship your machine.
 
 ---
 
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajayraj_TP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajayrajtp/)
+<p>
+  <a href="https://www.linkedin.com/in/ajayrajtp/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://github.com/ajayrajtp">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+  </a>
+</p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-ajayrajtp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayrajtp)
+**Thanks for stopping by!**
+
+Usually have something running in Docker, something breaking in my homelab, or some new technology I'm trying to figure out.
+
+*It's not a bug. It's an undocumented feature.*
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Happy engineering"/>
+
 
 **Thanks for stopping by!**
 
