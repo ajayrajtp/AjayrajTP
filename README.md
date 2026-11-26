@@ -222,6 +222,26 @@ I enjoy building and maintaining my own infrastructure, experimenting with virtu
 
 ---
 
+## 🧭 Contribution Insights
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ajayrajtp/ajayrajtp/output-3d-contrib/profile-3d.svg"
+    width="100%"
+    alt="3D GitHub contribution calendar"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/ajayrajtp/ajayrajtp/output-3d-contrib/radar.svg"
+    width="72%"
+    alt="GitHub contribution radar chart"
+  />
+</p>
+
+---
+
 ## 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/ajayrajtp/ajayrajtp/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
@@ -391,5 +411,4 @@ Usually have something running in Docker, something breaking in my homelab, or s
 *It's not a bug. It's an undocumented feature.*
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Happy engineering"/>
-
 
