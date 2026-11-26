@@ -360,6 +360,19 @@ Congratulations. Ship your machine.
 
 ---
 
+## 🏆 GitHub Achievements
+
+Proud of some of the milestones along the way.
+
+<p>
+  <a href="https://github.com/ajayrajtp?tab=achievements">
+    <img src="https://img.shields.io/badge/View-GitHub%20Achievements-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Achievements"/>
+  </a>
+</p>
+
+*Some achievements were earned through private repositories. The work stays private, the badges don't have to!*
+
+---
 ## 🤝 Let's Connect
 
 <p>
