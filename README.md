@@ -360,7 +360,6 @@ Congratulations. Ship your machine.
 
 ---
 
-
 ## 🤝 Let's Connect
 
 <p>
@@ -380,12 +379,4 @@ Usually have something running in Docker, something breaking in my homelab, or s
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Happy engineering"/>
 
-
-**Thanks for stopping by!**
-
-Usually have something running in Docker, something breaking in my homelab, or some new technology I'm trying to figure out.
-
-*It's not a bug. It's an undocumented feature.*
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Happy engineering"/>
 
