@@ -1,14 +1,14 @@
 # Hey, I'm AJAYRAJ! 👋
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%26+AI+Engineer;LLM+%7C+RAG+%7C+GraphRAG;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Lead+Engineer;Python+%26+AI+Engineer;LLM+%7C+RAG+%7C+GraphRAG;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
 </h3>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="480" alt="Coding animation"/>
 </p>
 
-I'm a software engineer who enjoys building things, breaking things, figuring out how they work, and experimenting with new technologies.
+I'm a Lead engineer who enjoys building things, breaking things, figuring out how they work, and experimenting with new technologies.
 
 Most of my interests revolve around backend development, AI/LLMs, infrastructure, self-hosting, and open-source projects. I like solving real-world problems, but I'm equally happy spending a weekend setting up something completely unnecessary in my homelab just to see if it works.
 
