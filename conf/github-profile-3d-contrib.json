@@ -1,0 +1,35 @@
+[
+  {
+    "type": "normal",
+    "fileName": "profile-3d.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#c9d1d9",
+    "strongColor": "#58a6ff",
+    "weakColor": "#8b949e",
+    "radarColor": "#f778ba",
+    "growingAnimation": true,
+    "contribColors": [
+      "#161b22",
+      "#0e4429",
+      "#006d32",
+      "#26a641",
+      "#39d353"
+    ]
+  },
+  {
+    "type": "radar_contrib_only",
+    "fileName": "radar.svg",
+    "backgroundColor": "#0d1117",
+    "foregroundColor": "#c9d1d9",
+    "weakColor": "#8b949e",
+    "radarColor": "#58a6ff",
+    "growingAnimation": true,
+    "l10n": {
+      "commit": "Commits",
+      "repo": "Repositories",
+      "review": "Reviews",
+      "pullreq": "Pull Requests",
+      "issue": "Issues"
+    }
+  }
+]
