@@ -1,71 +1,81 @@
-# Hi, I'm AJAYRAJ
+# Hey, I'm AJAYRAJ! 👋
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Software+Engineer;Python+%26+AI+Engineer;LLM+%7C+RAG+%7C+GraphRAG;Homelab+%26+Self-Hosting+Enthusiast" alt="Typing SVG" />
+</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212750337-1a2e8f6b-c1cb-4e58-9a2d-99f1ef6d4d52.gif" width="480" alt="Coding animation"/>
+</p>
 
 I'm a software engineer who enjoys building things, breaking things, figuring out how they work, and experimenting with new technologies.
 
-Most of my interests revolve around backend development, AI/LLMs, infrastructure, self-hosting, and open-source projects. I like working on things that solve actual problems, but I also enjoy building random stuff just to learn something new.
+Most of my interests revolve around backend development, AI/LLMs, infrastructure, self-hosting, and open-source projects. I like solving real-world problems, but I'm equally happy spending a weekend setting up something completely unnecessary in my homelab just to see if it works.
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
-- Python
-- JavaScript / TypeScript
-- C / C++
-- SQL
-- Bash
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,js,ts,c,cpp,bash,postgres" />
+</p>
 
 **Backend & Development**
-- Flask / FastAPI
-- Angular
-- PostgreSQL
-- REST APIs
-- Docker
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,angular,docker,git,github,postgres" />
+</p>
 
 **AI & Machine Learning**
-- LLMs
-- RAG & GraphRAG
+
+- LLMs and Generative AI
+- Retrieval-Augmented Generation (RAG)
+- GraphRAG & Knowledge Graphs
 - Neo4j
 - Embeddings & Vector Search
 - LLM Fine-tuning
-- Hugging Face
-- PyTorch
+- Hugging Face & PyTorch
 - Document Processing & Information Extraction
 
-**Infrastructure & Cloud**
-- Linux
-- Docker & Docker Compose
-- AWS
-- Proxmox
-- TrueNAS
-- Networking
+**Cloud & Infrastructure**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,nginx,bash,git" />
+</p>
+
+- Proxmox & TrueNAS
 - Virtualization
+- Networking & Security
 - CI/CD
-- Self-hosted Services
+- Self-hosted Applications
 
 ---
 
-## AI & LLMs
+## 🧠 AI & LLM Engineering
 
 I've been spending quite a bit of time exploring and building things around LLMs.
 
-Some of the things I enjoy working on:
+Things I enjoy working on:
+
 - Building RAG pipelines and optimizing retrieval latency.
 - Experimenting with GraphRAG and knowledge graphs using Neo4j.
 - Fine-tuning open-weight models for specific use cases.
-- Building document processing and information extraction pipelines.
+- Building document intelligence and information extraction pipelines.
 - Exploring local LLM deployments and private AI.
-- Experimenting with embeddings, vector search, and model evaluation.
+- Experimenting with embeddings, semantic search, and model evaluation.
 
 I prefer understanding how things work under the hood rather than just plugging APIs together.
 
 ---
 
-## Homelab & Self-Hosting
+## 🖥️ Homelab & Self-Hosting
 
-I also enjoy building and maintaining my own infrastructure.
+Outside software development, I enjoy building and maintaining my own infrastructure.
 
-My homelab experiments include:
+**My homelab experiments include:**
+
 - Proxmox virtualization
 - TrueNAS storage
 - Immich photo backup
@@ -73,17 +83,32 @@ My homelab experiments include:
 - Linux server administration
 - Networking and remote access
 - Backup and storage management
+- Self-hosted applications
 
-I like turning spare hardware into something useful and hosting services myself whenever possible.
+<p align="center">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="300" alt="Cat using a computer"/>
+</p>
+
+I enjoy turning spare hardware into useful systems and hosting services myself whenever possible.
 
 ---
 
-## Things I Enjoy
+## 🔭 Currently Exploring
+
+- Advanced RAG and GraphRAG architectures
+- Knowledge graphs with Neo4j
+- LLM training and fine-tuning
+- Private AI deployments
+- Infrastructure automation and monitoring
+- Cloud and DevOps workflows
+- Systems programming with C and C++
+
+---
+
+## 🎯 Things I Enjoy
 
 - Building backend systems
 - Exploring AI and LLMs
-- RAG, GraphRAG and knowledge graphs
-- Model training and fine-tuning
 - Self-hosting applications
 - Linux and infrastructure
 - Automation and optimization
@@ -92,23 +117,23 @@ I like turning spare hardware into something useful and hosting services myself 
 
 ---
 
-## Currently Exploring
+## 🤝 Connect With Me
 
-- Advanced RAG architectures
-- Graph-based retrieval with Neo4j
-- LLM fine-tuning and evaluation
-- Private AI deployments
-- Infrastructure automation
-- Cloud and DevOps workflows
-- Systems programming with C and C++
-
----
-
-## Find Me Around the Internet
-
-- LinkedIn: [ajayrajtp](https://www.linkedin.com/in/ajayrajtp/)
-- GitHub: [ajayrajtp](https://github.com/ajayrajtp)
+<p align="left">
+  <a href="https://www.linkedin.com/in/ajayrajtp/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/ajayrajtp" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
 ---
 
-I usually have something running in Docker, something breaking in my homelab, or some new technology I'm trying to figure out.
+<p align="center">
+  <i>"I usually have something running in Docker, something breaking in my homelab, or some new technology I'm trying to figure out."</i>
+</p>
+
+<p align="center">
+  Thanks for stopping by! 🚀
+</p>
