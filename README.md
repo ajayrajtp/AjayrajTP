@@ -360,11 +360,30 @@ Congratulations. Ship your machine.
 
 ---
 
+---
+
+## 🏆 GitHub Achievements
+
+Proud of some of the milestones along the way.
+
+<p>
+  <a href="https://github.com/ajayrajtp?tab=achievements">
+    <img src="https://img.shields.io/badge/View-GitHub%20Achievements-8957e5?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub Achievements"/>
+  </a>
+</p>
+---
+
+
 ## 🤝 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ajayraj_TP-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajayrajtp/)
-
-[![GitHub](https://img.shields.io/badge/GitHub-ajayrajtp-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ajayrajtp)
+<p>
+  <a href="https://www.linkedin.com/in/ajayrajtp/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
+  </a>
+  <a href="https://github.com/ajayrajtp">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="35"/>
+  </a>
+</p>
 
 **Thanks for stopping by!**
 
@@ -373,4 +392,5 @@ Usually have something running in Docker, something breaking in my homelab, or s
 *It's not a bug. It's an undocumented feature.*
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="Happy engineering"/>
+
 
